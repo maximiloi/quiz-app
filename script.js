@@ -1,4 +1,4 @@
-const quizData = [ // вопросы
+const quizData = [ // вопросы обо мне
     {
         question: 'Где я родился?',
         a: 'Иркутск',
