@@ -22,7 +22,7 @@ const quizData = [ // вопросы
         correct: 'c',
     }, {
         question: 'Где я учился верстке?',
-        a: 'Skillbox',
+        a: 'А ты учился?',
         b: 'Geekbrains',
         c: 'У Александра Лущенко в itgid.info',
         d: 'HTMLAcademy',
